@@ -1,4 +1,4 @@
-#Proxy Server & Caching
+# Proxy Server & Caching
 
 - The **Proxy Server** has been implemented in **python**.
 - All the files are stored in **cache** if the folder doesn't exist, program will take care of it.
